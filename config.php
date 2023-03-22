@@ -1,6 +1,6 @@
 <?php
 
-    //Definindo conecção ao banco de dados
+    //Definindo conexão ao banco de dados
     $dbHost = 'localhost';
     $dbUsarname = 'root';
     $dbPassword = '';
